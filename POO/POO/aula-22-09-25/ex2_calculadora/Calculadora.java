@@ -1,0 +1,15 @@
+public class Calculadora{
+
+    public int soma(int a, int b){
+        System.out.println("Resultado: "+(a+b));
+        return a+b;
+    }
+
+    public double soma(double a, double b){
+        System.out.println("Resultado: "+(a+b));
+        return a+b;
+    }
+
+
+
+}
